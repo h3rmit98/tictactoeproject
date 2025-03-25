@@ -1,0 +1,1 @@
+This is my first project! This tic taac toe game has only been tested on debian Linux operating systems. It includes everything needed to run the game straight out of the gate, no additional librairies need to be installed.
